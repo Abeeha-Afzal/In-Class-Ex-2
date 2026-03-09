@@ -7,7 +7,6 @@ The notebooks include practice with basic Python concepts and data analysis libr
 - Python practice
 - NumPy arrays
 - Pandas data handling
-- Working with CSV files
 - Jupyter Notebook exercises
 
 ## Files
